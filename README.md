@@ -1,10 +1,18 @@
 # 2nd-ML100Days
-Introduction of Machine Learning
+1. 資料清理數據前處理      1-16
 
-Supervised Learning
+2. 資料科學特徵工程技術    17-30
 
-  Processing -> Exploratory Data Analysis -> Feature Engineering -> Mpdel Selection -> Fine-truning -> Ensemble
-  
-Unsupervised Learning
-  Clustering
-  Dimension Reduction
+3. 機器學習基礎模型建立    31-46
+
+4. 機器學習調整參數       47-50
+
+5. 非監督式機器學習       51-59
+
+6. 深度學習理論與實作     60-62
+
+7. 初探深度學習使用Keras  63-88
+
+8. 深度學習應用卷積神經網路 89-97
+
+9. Bonus 進階補充        98-101
